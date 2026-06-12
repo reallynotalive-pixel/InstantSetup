@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-setup_machine.py — Interactive machine setup tool
+Setup.py — Interactive machine setup tool
 Asks what you do with your computer, then installs the right packages.
 Supports: apt (system), pip (Python), npm -g (Node globals)
 Compatible: Ubuntu 24.04 LTS / Debian 12+
